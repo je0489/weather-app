@@ -1,1 +1,1 @@
-# clone weather-app for React Native
+# for React Native
