@@ -1,1 +1,1 @@
-# for React Native
+# with React Native
