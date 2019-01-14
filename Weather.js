@@ -13,7 +13,7 @@ const weatherCases = {
 		icon: 'weather-rainy'
 	},
 	Clear: {
-		colors: [ 'rgb(224,102,86)', 'rgb(252,48,42)' ],
+		colors: [ '#E06656', '#FC302A' ],
 		title: 'Sunny as fuck',
 		subtitle: 'Go get out',
 		icon: 'weather-sunny'
@@ -43,13 +43,13 @@ const weatherCases = {
 		icon: 'weather-hail'
 	},
 	Mist: {
-		colors: [ 'rgb(234,191,182)', 'rgb(218,190,223)' ],
+		colors: [ '#EABFB6', '#DABEDF' ],
 		title: 'Mist',
 		subtitle: 'Its like you have no glasses on',
 		icon: 'weather-fog'
 	},
 	Haze: {
-		colors: [ 'rgb(15,113,208)', 'rgb(27,131,112)' ],
+		colors: [ '#0F71D0', '#1B8370' ],
 		title: 'Haze',
 		subtitle: 'Dont know what that is',
 		icon: 'weather-hail'
